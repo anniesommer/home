@@ -1,5 +1,35 @@
+* {
+  align: Center;
+  
+}
+
+h1{
+  align:Center;
+  padding:25px
+    
+}
+h2 {
+  font-family: Helvetica, Sans-serif;
+  text-align: Center;
+  
+}
+h3 {
+  font-family: Helvetica, Sans-serif;
+  text-align: Center;
+  font-size:44px;
+  
+}
+
+div {
+	padding: 25px;
+  display: inline-block;
+  align: Center;
+  }
 p {
-	font-family: Arial
-	text-align: Center
-	}
-	
+  padding: 10px;
+  width: 400px;
+  text-align: Center;
+  font-family: Helvetica, Sans-serif;
+  font-size: 18px;
+  font-color:pink;
+    }
