@@ -31,5 +31,24 @@ p {
   text-align: Center;
   font-family: Helvetica, Sans-serif;
   font-size: 18px;
-  font-color:pink;
+
     }
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: pink;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: #0000FF;
+}
